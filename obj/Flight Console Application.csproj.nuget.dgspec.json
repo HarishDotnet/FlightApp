@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\Flight Console Application.csproj": {}
+    "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\FlightApp\\Flight Console Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\Flight Console Application.csproj": {
+    "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\FlightApp\\Flight Console Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\Flight Console Application.csproj",
+        "projectUniqueName": "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\FlightApp\\Flight Console Application.csproj",
         "projectName": "Flight Console Application",
-        "projectPath": "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\Flight Console Application.csproj",
+        "projectPath": "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\FlightApp\\Flight Console Application.csproj",
         "packagesPath": "C:\\Users\\harish.muthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\obj\\",
+        "outputPath": "C:\\Users\\harish.muthu\\Desktop\\c# Traning\\Flight Console Application\\FlightApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harish.muthu\\AppData\\Roaming\\NuGet\\NuGet.Config"

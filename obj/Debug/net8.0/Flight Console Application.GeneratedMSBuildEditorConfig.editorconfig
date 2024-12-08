@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Flight_Console_Application
-build_property.ProjectDir = C:\Users\harish.muthu\Desktop\c# Traning\Flight Console Application\
+build_property.ProjectDir = C:\Users\harish.muthu\Desktop\c# Traning\Flight Console Application\FlightApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
